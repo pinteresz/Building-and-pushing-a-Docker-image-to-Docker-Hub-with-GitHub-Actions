@@ -1,0 +1,23 @@
+{
+  "name": "build-and-push-docker-image-to-docker-hub-with-github-actions",
+  "version": "1.0.0",
+  "description": "In this project, I used the GitHub Actions workflow (CI/CD pipeline) to build and push a Docker image to Docker Hub.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinteresz/build-and-push-Docker-image-to-Docker-Hub-with-GitHub-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinteresz/build-and-push-Docker-image-to-Docker-Hub-with-GitHub-Actions/issues"
+  },
+  "homepage": "https://github.com/pinteresz/build-and-push-Docker-image-to-Docker-Hub-with-GitHub-Actions#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
