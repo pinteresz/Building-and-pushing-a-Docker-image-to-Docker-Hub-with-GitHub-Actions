@@ -1,5 +1,3 @@
-## Building-and-pushing-a-Docker-image-to-Docker-Hub-with-GitHub-Actions
-
 ### :point_right: **In this project, I used the GitHub Actions workflow (CI/CD pipeline) to build and push a Docker image to Docker Hub.** :point_left:
 
 ### **Steps:**
